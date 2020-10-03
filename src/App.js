@@ -46,7 +46,7 @@ function App() {
       </header> */}
 
         <Switch>
-          <Route exact path="/">
+          <Route path="/">
             <HomePage />
           </Route>
           {/* <Route path="/about">
