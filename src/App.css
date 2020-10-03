@@ -10,7 +10,9 @@
 
 .title {
   font-family: "Montserrat", sans-serif;
-  font-size: 50px;
+  font-size: 25px;
+  text-decoration: unset;
+  color: grey;
 }
 
 /* DISCARD MAYBE */

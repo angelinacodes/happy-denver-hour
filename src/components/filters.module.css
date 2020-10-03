@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-evenly;
+  padding: 40px;
+}
+
+.formControl {
+  display: flex;
+  flex: 1;
+}
+.formControl:not(:last-child) {
+  margin-right: 30px;
+}
